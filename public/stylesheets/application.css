@@ -73,7 +73,8 @@ textarea {
   border: solid 1px black;
   margin-top: 20px; }
   #header ul {
-    display: inline; }
+    display: inline;
+    padding-left: 0px; }
     #header ul li {
       list-style: none;
       margin-right: 10px;
